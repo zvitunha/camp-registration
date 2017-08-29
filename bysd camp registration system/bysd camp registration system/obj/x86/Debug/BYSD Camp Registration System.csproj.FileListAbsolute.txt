@@ -1,0 +1,53 @@
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.pdb
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Login.resources
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Properties.Resources.resources
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.exe
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.pdb
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.MainMenu.resources
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Registration.resources
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.ViewRegistrations.resources
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.AccomodationManagement.resources
+C:\Users\Mpini\Documents\Programmer\projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Statistics.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.exe
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.pdb
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.pdb
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.AccomodationManagement.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Login.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.MainMenu.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Properties.Resources.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Registration.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Statistics.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.ViewRegistrations.resources
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\Registration.accdb
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe.config
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe.manifest
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.application
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.exe.manifest
+C:\Users\Mpini\Documents\Programmer\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.application
+C:\Users\Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe.config
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe.config
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.exe
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.pdb
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\Registration.accdb
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe.manifest
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.application
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.exe
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\bin\Debug\BYSD Camp Registration System.pdb
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.AccomodationManagement.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Login.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.MainMenu.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Properties.Resources.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Registration.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.Statistics.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD_Camp_Registration_System.ViewRegistrations.resources
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.csproj.GenerateResource.Cache
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.exe.manifest
+C:\Users\Mpini Mpini\Documents\Programmer\Projects\BYSD Camp Registration System\BYSD Camp Registration System\BYSD Camp Registration System\obj\x86\Debug\BYSD Camp Registration System.application

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="RegistrationDataSet" targetNamespace="http://tempuri.org/RegistrationDataSet.xsd" xmlns:mstns="http://tempuri.org/RegistrationDataSet.xsd" xmlns="http://tempuri.org/RegistrationDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="RegistrationConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="RegistrationConnectionString (Settings)" PropertyReference="ApplicationSettings.BYSD_Camp_Registration_System.Properties.Settings.GlobalReference.Default.RegistrationConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RoomsTableAdapter" GeneratorDataComponentClassName="RoomsTableAdapter" Name="Rooms" UserDataComponentName="RoomsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="RegistrationConnectionString (Settings)" DbObjectName="Rooms" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Room, [Total Accomodation], Occupied, [Vacancy For] FROM Rooms</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Room" DataSetColumn="Room" />
+              <Mapping SourceColumn="Total Accomodation" DataSetColumn="Total Accomodation" />
+              <Mapping SourceColumn="Occupied" DataSetColumn="Occupied" />
+              <Mapping SourceColumn="Vacancy For" DataSetColumn="Vacancy For" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="RegistrationDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="RegistrationDataSet" msprop:Generator_UserDSName="RegistrationDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Rooms" msprop:Generator_TableClassName="RoomsDataTable" msprop:Generator_TableVarName="tableRooms" msprop:Generator_TablePropName="Rooms" msprop:Generator_RowDeletingName="RoomsRowDeleting" msprop:Generator_UserTableName="Rooms" msprop:Generator_RowChangingName="RoomsRowChanging" msprop:Generator_RowEvHandlerName="RoomsRowChangeEventHandler" msprop:Generator_RowDeletedName="RoomsRowDeleted" msprop:Generator_RowEvArgName="RoomsRowChangeEvent" msprop:Generator_RowChangedName="RoomsRowChanged" msprop:Generator_RowClassName="RoomsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Room" msprop:Generator_ColumnVarNameInTable="columnRoom" msprop:Generator_ColumnPropNameInRow="Room" msprop:Generator_ColumnPropNameInTable="RoomColumn" msprop:Generator_UserColumnName="Room" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Total_x0020_Accomodation" msprop:Generator_ColumnVarNameInTable="columnTotal_Accomodation" msprop:Generator_ColumnPropNameInRow="Total_Accomodation" msprop:Generator_ColumnPropNameInTable="Total_AccomodationColumn" msprop:Generator_UserColumnName="Total Accomodation" type="xs:int" minOccurs="0" />
+              <xs:element name="Occupied" msprop:Generator_ColumnVarNameInTable="columnOccupied" msprop:Generator_ColumnPropNameInRow="Occupied" msprop:Generator_ColumnPropNameInTable="OccupiedColumn" msprop:Generator_UserColumnName="Occupied" type="xs:int" minOccurs="0" />
+              <xs:element name="Vacancy_x0020_For" msprop:Generator_ColumnVarNameInTable="columnVacancy_For" msprop:Generator_ColumnPropNameInRow="Vacancy_For" msprop:Generator_ColumnPropNameInTable="Vacancy_ForColumn" msprop:Generator_UserColumnName="Vacancy For" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
